@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+  <metadata>
+    <name>cpuUsage</name>
+    <unit>%</unit>
+    <vm />
+  </metadata>
+  <data>
+    <metric time="Mar 23, 2016 1:10:03 AM" VMs="1">2.0</metric>
+    <metric time="Mar 23, 2016 1:10:18 AM" VMs="1">33.3</metric>
+    <metric time="Mar 23, 2016 1:10:34 AM" VMs="1">17.4</metric>
+    <metric time="Mar 23, 2016 1:10:49 AM" VMs="1">15.9</metric>
+    <metric time="Mar 23, 2016 1:11:06 AM" VMs="1">100.0</metric>
+    <metric time="Mar 23, 2016 1:11:16 AM" VMs="2">0.0</metric> 40
+    <metric time="Mar 23, 2016 1:11:31 AM" VMs="2">20.8</metric>
+    <metric time="Mar 23, 2016 1:11:48 AM" VMs="2">100.0</metric>
+    <metric time="Mar 23, 2016 1:12:03 AM" VMs="3">17.4</metric>
+    <metric time="Mar 23, 2016 1:12:19 AM" VMs="3">14.3</metric>
+    <metric time="Mar 23, 2016 1:12:34 AM" VMs="3">6.1</metric>
+    <metric time="Mar 23, 2016 1:12:50 AM" VMs="3">22.7</metric>
+    <metric time="Mar 23, 2016 1:13:05 AM" VMs="3">100.0</metric> 80
+    <metric time="Mar 23, 2016 1:13:21 AM" VMs="3">21.3</metric>
+    <metric time="Mar 23, 2016 1:13:36 AM" VMs="3">100.0</metric> 80
+    <metric time="Mar 23, 2016 1:13:52 AM" VMs="3">85.7</metric> 50
+    <metric time="Mar 23, 2016 1:14:08 AM" VMs="3">84.0</metric> 50
+    <metric time="Mar 23, 2016 1:14:23 AM" VMs="3">41.7</metric>
+    <metric time="Mar 23, 2016 1:14:39 AM" VMs="3">40.0</metric>
+    <metric time="Mar 23, 2016 1:14:54 AM" VMs="3">74.0</metric>
+    <metric time="Mar 23, 2016 1:15:11 AM" VMs="3">55.1</metric>
+    <metric time="Mar 23, 2016 1:15:27 AM" VMs="3">100.0</metric> 80
+    <metric time="Mar 23, 2016 1:15:42 AM" VMs="3">21.4</metric>
+    <metric time="Mar 23, 2016 1:15:58 AM" VMs="3">0.0</metric>
+    <metric time="Mar 23, 2016 1:16:13 AM" VMs="3">16.7</metric>
+    <metric time="Mar 23, 2016 1:16:29 AM" VMs="3">2.1</metric>
+    <metric time="Mar 23, 2016 1:16:44 AM" VMs="3">0.0</metric>
+    <metric time="Mar 23, 2016 1:17:00 AM" VMs="3">3.9</metric>
+    <metric time="Mar 23, 2016 1:17:17 AM" VMs="3">100.0</metric> 80
+    <metric time="Mar 23, 2016 1:17:33 AM" VMs="3">100.0</metric> 80
+    <metric time="Mar 23, 2016 1:17:48 AM" VMs="3">100.0</metric> 80
+    <metric time="Mar 23, 2016 1:18:04 AM" VMs="3">31.4</metric>
+    <metric time="Mar 23, 2016 1:18:19 AM" VMs="3">0.0</metric>
+    <metric time="Mar 23, 2016 1:18:35 AM" VMs="3">0.0</metric>
+    <metric time="Mar 23, 2016 1:18:50 AM" VMs="3">96.6</metric>  50
+    <metric time="Mar 23, 2016 1:19:06 AM" VMs="3">2.1</metric>
+    <metric time="Mar 23, 2016 1:19:21 AM" VMs="3">3.9</metric>
+  </data>
+</database>
+
+saturation= 2
+number of scale up= 2
+number of sacle down = 0
+
+The average of the used CPU %= (2.0+ 33.3+ 17.4+ 15.9+ 100.0+ 10+ 20.8+ 100.0+ 17.4+ 14.3+ 6.1+ 22.7+ 50+ 21.3+ 50+ 50+ 50+ 41.7+ 40.0+ 74.0+ 55.1+ 50+ 21.4+ 40+16.7+ 2.1+ 40+ 3.9+ 50+ 50+ 50+ 31.4+ 10+ 10 )34=36.54
+

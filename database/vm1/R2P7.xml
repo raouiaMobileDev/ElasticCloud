@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+  <metadata>
+    <name>cpuUsage</name>
+    <unit>%</unit>
+    <vm />
+  </metadata>
+  <data>
+    <metric time="Mar 23, 2016 9:11:11 AM" VMs="1">16.3</metric>
+    <metric time="Mar 23, 2016 9:11:27 AM" VMs="1">73.3</metric>
+    <metric time="Mar 23, 2016 9:11:42 AM" VMs="1">23.8</metric>
+    <metric time="Mar 23, 2016 9:11:58 AM" VMs="1">15.6</metric>
+    <metric time="Mar 23, 2016 9:12:13 AM" VMs="1">100.0</metric>
+    <metric time="Mar 23, 2016 9:12:36 AM" VMs="1">100.0</metric>
+    <metric time="Mar 23, 2016 9:12:45 AM" VMs="2">100.0</metric>
+    <metric time="Mar 23, 2016 9:13:01 AM" VMs="2">100.0</metric>
+    <metric time="Mar 23, 2016 9:13:07 AM" VMs="3">0.0</metric>
+    <metric time="Mar 23, 2016 9:13:34 AM" VMs="3">100.0</metric>
+    <metric time="Mar 23, 2016 9:13:54 AM" VMs="3">22.9</metric>
+    <metric time="Mar 23, 2016 9:14:09 AM" VMs="3">86.3</metric>
+    <metric time="Mar 23, 2016 9:14:27 AM" VMs="3">37.0</metric>
+    <metric time="Mar 23, 2016 9:14:42 AM" VMs="3">78.7</metric>
+    <metric time="Mar 23, 2016 9:14:58 AM" VMs="3">100.0</metric>
+    <metric time="Mar 23, 2016 9:15:14 AM" VMs="3">100.0</metric>
+    <metric time="Mar 23, 2016 9:15:30 AM" VMs="3">90.0</metric>
+    <metric time="Mar 23, 2016 9:15:45 AM" VMs="3">97.9</metric>
+    <metric time="Mar 23, 2016 9:16:02 AM" VMs="3">100.0</metric>
+    <metric time="Mar 23, 2016 9:16:17 AM" VMs="3">55.6</metric>
+    <metric time="Mar 23, 2016 9:16:33 AM" VMs="3">29.5</metric>
+    <metric time="Mar 23, 2016 9:16:48 AM" VMs="3">10.6</metric>
+    <metric time="Mar 23, 2016 9:17:04 AM" VMs="3">100.0</metric>
+    <metric time="Mar 23, 2016 9:17:19 AM" VMs="3">6.1</metric>
+    <metric time="Mar 23, 2016 9:17:35 AM" VMs="3">19.6</metric>
+    <metric time="Mar 23, 2016 9:17:50 AM" VMs="3">14.6</metric>
+    <metric time="Mar 23, 2016 9:18:06 AM" VMs="3">100.0</metric>
+    <metric time="Mar 23, 2016 9:18:22 AM" VMs="3">79.2</metric>
+    <metric time="Mar 23, 2016 9:18:37 AM" VMs="3">40.9</metric>
+    <metric time="Mar 23, 2016 9:18:53 AM" VMs="3">23.3</metric>
+    <metric time="Mar 23, 2016 9:19:08 AM" VMs="3">95.7</metric>
+    <metric time="Mar 23, 2016 9:19:24 AM" VMs="3">9.8</metric>
+    <metric time="Mar 23, 2016 9:19:39 AM" VMs="3">6.5</metric>
+    <metric time="Mar 23, 2016 9:19:55 AM" VMs="3">6.5</metric>
+    <metric time="Mar 23, 2016 9:20:04 AM" VMs="2">2.1</metric>
+    <metric time="Mar 23, 2016 9:20:19 AM" VMs="2">0.0</metric>
+    <metric time="Mar 23, 2016 9:20:35 AM" VMs="2">6.8</metric>
+    
+  </data>
+</database>
+
+saturation= 4
+number of scale up= 2
+number of sacle down = 1
+
+
+
+
+
+

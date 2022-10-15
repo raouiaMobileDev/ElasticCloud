@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+  <metadata>
+    <name>cpuUsage</name>
+    <unit>%</unit>
+    <vm />
+  </metadata>
+  <data>
+    <metric time="Mar 20, 2016 8:59:36 AM" VMs="1">2.0</metric>
+    <metric time="Mar 20, 2016 8:59:52 AM" VMs="1">6.1</metric>
+    <metric time="Mar 20, 2016 9:00:07 AM" VMs="1">8.5</metric>
+    <metric time="Mar 20, 2016 9:00:23 AM" VMs="1">17.5</metric>
+    <metric time="Mar 20, 2016 9:00:38 AM" VMs="1">8.3</metric>
+    <metric time="Mar 20, 2016 9:01:00 AM" VMs="1">100.0</metric>
+    <metric time="Mar 20, 2016 9:01:17 AM" VMs="1">100.0</metric>
+    <metric time="Mar 20, 2016 9:01:32 AM" VMs="2">0.0</metric>
+    <metric time="Mar 20, 2016 9:01:50 AM" VMs="1">100.0</metric>
+    <metric time="Mar 20, 2016 9:02:04 AM" VMs="1">100.0</metric>
+    <metric time="Mar 20, 2016 9:02:19 AM" VMs="2">26.8</metric>
+    <metric time="Mar 20, 2016 9:02:41 AM" VMs="1">0.0</metric>
+    <metric time="Mar 20, 2016 9:02:56 AM" VMs="1">100.0</metric>
+    <metric time="Mar 20, 2016 9:03:14 AM" VMs="1">100.0</metric>
+    <metric time="Mar 20, 2016 9:03:34 AM" VMs="2">100.0</metric>
+    <metric time="Mar 20, 2016 9:04:06 AM" VMs="2">100.0</metric>
+    <metric time="Mar 20, 2016 9:04:37 AM" VMs="3">0.0</metric>
+    <metric time="Mar 20, 2016 9:05:09 AM" VMs="2">100.0</metric>
+    <metric time="Mar 20, 2016 9:05:46 AM" VMs="2">100.0</metric>
+    <metric time="Mar 20, 2016 9:06:02 AM" VMs="3">17.0</metric>
+    <metric time="Mar 20, 2016 9:06:32 AM" VMs="2">10.2</metric>
+    <metric time="Mar 20, 2016 9:06:48 AM" VMs="1">100.0</metric>
+    <metric time="Mar 20, 2016 9:07:12 AM" VMs="1">100.0</metric>
+    <metric time="Mar 20, 2016 9:07:30 AM" VMs="2">100.0</metric>
+    <metric time="Mar 20, 2016 9:08:01 AM" VMs="2">20.9</metric>
+    <metric time="Mar 20, 2016 9:08:16 AM" VMs="1">0.0</metric>
+    <metric time="Mar 20, 2016 9:08:32 AM" VMs="1">35.0</metric>
+    <metric time="Mar 20, 2016 9:08:47 AM" VMs="1">8.3</metric>
+    <metric time="Mar 20, 2016 9:09:03 AM" VMs="1">0.0</metric>
+    <metric time="Mar 20, 2016 9:09:19 AM" VMs="1">0.0</metric>
+  </data>
+</database>
+

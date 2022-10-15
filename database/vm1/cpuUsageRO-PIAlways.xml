@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+  <metadata>
+    <name>cpuUsage</name>
+    <unit>%</unit>
+    <vm />
+  </metadata>
+  <data>
+    <metric time="Mar 19, 2016 7:49:29 PM" VMs="1">2.1</metric>
+    <metric time="Mar 19, 2016 7:49:45 PM" VMs="1">8.0</metric>
+    <metric time="Mar 19, 2016 7:50:00 PM" VMs="1">10.9</metric>
+    <metric time="Mar 19, 2016 7:50:16 PM" VMs="1">19.5</metric>
+    <metric time="Mar 19, 2016 7:50:31 PM" VMs="1">17.8</metric>
+    <metric time="Mar 19, 2016 7:50:49 PM" VMs="1">100.0</metric>
+    <metric time="Mar 19, 2016 7:51:04 PM" VMs="1">100.0</metric>
+    <metric time="Mar 19, 2016 7:51:08 PM" VMs="2">2.0</metric>
+    <metric time="Mar 19, 2016 7:51:26 PM" VMs="2">100.0</metric>
+    <metric time="Mar 19, 2016 7:51:41 PM" VMs="2">21.7</metric>
+    <metric time="Mar 19, 2016 7:51:57 PM" VMs="2">12.8</metric>
+    <metric time="Mar 19, 2016 7:52:08 PM" VMs="1">100.0</metric>
+    <metric time="Mar 19, 2016 7:52:24 PM" VMs="1">100.0</metric>
+    <metric time="Mar 19, 2016 7:52:39 PM" VMs="2">12.0</metric>
+    <metric time="Mar 19, 2016 7:52:55 PM" VMs="2">12.0</metric>
+    <metric time="Mar 19, 2016 7:53:11 PM" VMs="2">100.0</metric>
+    <metric time="Mar 19, 2016 7:53:26 PM" VMs="2">79.6</metric>
+    <metric time="Mar 19, 2016 7:53:42 PM" VMs="2">8.0</metric>
+    <metric time="Mar 19, 2016 7:53:58 PM" VMs="2">100.0</metric>
+    <metric time="Mar 19, 2016 7:54:14 PM" VMs="2">100.0</metric>
+    <metric time="Mar 19, 2016 7:54:29 PM" VMs="3">22.9</metric>
+    <metric time="Mar 19, 2016 7:54:48 PM" VMs="3">11.4</metric>
+    <metric time="Mar 19, 2016 7:55:08 PM" VMs="2">100.0</metric>
+    <metric time="Mar 19, 2016 7:55:19 PM" VMs="2">6.0</metric>
+    <metric time="Mar 19, 2016 7:55:36 PM" VMs="1">100.0</metric>
+    <metric time="Mar 19, 2016 7:55:52 PM" VMs="1">28.9</metric>
+    <metric time="Mar 19, 2016 7:56:07 PM" VMs="1">13.3</metric>
+    <metric time="Mar 19, 2016 7:56:23 PM" VMs="1">13.3</metric>
+    <metric time="Mar 19, 2016 7:56:38 PM" VMs="1">100.0</metric>
+    <metric time="Mar 19, 2016 7:56:55 PM" VMs="1">100.0</metric>
+    <metric time="Mar 19, 2016 7:57:10 PM" VMs="2">13.7</metric>
+    <metric time="Mar 19, 2016 7:57:26 PM" VMs="2">10.2</metric>
+    <metric time="Mar 19, 2016 7:57:41 PM" VMs="2">2.0</metric>
+    <metric time="Mar 19, 2016 7:57:57 PM" VMs="2">4.3</metric>
+    <metric time="Mar 19, 2016 7:58:13 PM" VMs="1">0.0</metric>
+    <metric time="Mar 19, 2016 7:58:28 PM" VMs="1">10.9</metric>
+    <metric time="Mar 19, 2016 7:58:44 PM" VMs="1">10.6</metric>
+  </data>
+</database>
+

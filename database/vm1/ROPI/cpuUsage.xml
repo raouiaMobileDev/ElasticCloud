@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+  <metadata>
+    <name>cpuUsage</name>
+    <unit>%</unit>
+    <vm />
+  </metadata>
+  <data>
+    <metric time="Feb 9, 2016 12:44:30 AM" VMs="1">0.0</metric>
+    <metric time="Feb 9, 2016 12:44:45 AM" VMs="1">26.8</metric>
+    <metric time="Feb 9, 2016 12:45:00 AM" VMs="1">15.6</metric>
+    <metric time="Feb 9, 2016 12:45:16 AM" VMs="1">22.0</metric>
+    <metric time="Feb 9, 2016 12:45:32 AM" VMs="1">5.9</metric>
+    <metric time="Feb 9, 2016 12:45:49 AM" VMs="1">100.0</metric>
+    <metric time="Feb 9, 2016 12:46:08 AM" VMs="2">100.0</metric>
+    <metric time="Feb 9, 2016 12:46:27 AM" VMs="3">16.7</metric>
+    <metric time="Feb 9, 2016 12:46:40 AM" VMs="3">17.4</metric>
+    <metric time="Feb 9, 2016 12:46:56 AM" VMs="3">8.3</metric>
+    <metric time="Feb 9, 2016 12:47:11 AM" VMs="3">2.0</metric>
+    <metric time="Feb 9, 2016 12:47:27 AM" VMs="3">6.0</metric>
+    <metric time="Feb 9, 2016 12:47:43 AM" VMs="3">2.0</metric>
+    <metric time="Feb 9, 2016 12:48:00 AM" VMs="2">4.3</metric>
+    <metric time="Feb 9, 2016 12:48:14 AM" VMs="2">4.1</metric>
+    <metric time="Feb 9, 2016 12:48:29 AM" VMs="2">4.2</metric>
+    <metric time="Feb 9, 2016 12:48:45 AM" VMs="2">22.2</metric>
+    <metric time="Feb 9, 2016 12:49:00 AM" VMs="2">10.2</metric>
+    <metric time="Feb 9, 2016 12:49:16 AM" VMs="2">6.4</metric>
+    <metric time="Feb 9, 2016 12:49:31 AM" VMs="2">10.4</metric>
+    <metric time="Feb 9, 2016 12:49:46 AM" VMs="1">100.0</metric>
+    <metric time="Feb 9, 2016 12:50:05 AM" VMs="2">2.0</metric>
+    <metric time="Feb 9, 2016 12:50:24 AM" VMs="2">10.6</metric>
+    <metric time="Feb 9, 2016 12:50:39 AM" VMs="2">2.0</metric>
+  </data>
+</database>
+

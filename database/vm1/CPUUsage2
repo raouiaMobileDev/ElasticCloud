@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+  <metadata>
+    <name>cpuUsage</name>
+    <unit>%</unit>
+    <vm />
+  </metadata>
+  <data>
+  
+    <metric time="Mar 11, 2016 9:56:15 PM" VMs="1">37.5</metric>
+    <metric time="Mar 11, 2016 9:56:31 PM" VMs="1">23.4</metric>
+    <metric time="Mar 11, 2016 9:56:47 PM" VMs="1">19.6</metric>
+
+    <metric time="Mar 11, 2016 9:57:03 PM" VMs="1">100.0</metric>
+    <metric time="Mar 11, 2016 9:57:18 PM" VMs="1">100.0</metric>
+    <metric time="Mar 11, 2016 9:57:34 PM" VMs="2">8.0</metric>
+    <metric time="Mar 11, 2016 9:57:49 PM" VMs="2">13.3</metric>
+    <metric time="Mar 11, 2016 9:58:05 PM" VMs="2">0.0</metric>
+    <metric time="Mar 11, 2016 9:58:20 PM" VMs="2">2.0</metric>
+
+    <metric time="Mar 11, 2016 9:58:36 PM" VMs="2">0.0</metric>
+    <metric time="Mar 11, 2016 9:58:52 PM" VMs="2">100.0</metric>
+    <metric time="Mar 11, 2016 9:59:10 PM" VMs="2">42.9</metric>
+
+    <metric time="Mar 11, 2016 9:59:26 PM" VMs="2">12.2</metric>
+
+    <metric time="Mar 11, 2016 9:59:41 PM" VMs="2">100.0</metric>
+    <metric time="Mar 11, 2016 9:59:59 PM" VMs="2">100.0</metric>
+    <metric time="Mar 11, 2016 10:00:13 PM" VMs="3">23.4</metric>
+    <metric time="Mar 11, 2016 10:00:28 PM" VMs="3">10.6</metric>
+    <metric time="Mar 11, 2016 10:00:44 PM" VMs="3">20.8</metric>
+    <metric time="Mar 11, 2016 10:00:59 PM" VMs="3">17.0</metric>
+
+    <metric time="Mar 11, 2016 10:01:15 PM" VMs="2">100.0</metric>
+    <metric time="Mar 11, 2016 10:01:31 PM" VMs="2">100.0</metric>
+    <metric time="Mar 11, 2016 10:01:38 PM" VMs="3">2.0</metric>
+    <metric time="Mar 11, 2016 10:01:54 PM" VMs="3">8.5</metric>
+    <metric time="Mar 11, 2016 10:02:09 PM" VMs="3">2.0</metric>
+    <metric time="Mar 11, 2016 10:02:25 PM" VMs="3">15.6</metric>
+    <metric time="Mar 11, 2016 10:02:41 PM" VMs="3">0.0</metric>
+    <metric time="Mar 11, 2016 10:02:56 PM" VMs="2">7.3</metric>
+    <metric time="Mar 11, 2016 10:03:12 PM" VMs="2">23.4</metric>
+    <metric time="Mar 11, 2016 10:03:27 PM" VMs="2">2.0</metric>
+    <metric time="Mar 11, 2016 10:03:43 PM" VMs="2">15.9</metric>
+    <metric time="Mar 11, 2016 10:03:58 PM" VMs="2">5.8</metric>
+    <metric time="Mar 11, 2016 10:04:14 PM" VMs="2">2.0</metric>
+  </data>
+</database>
+

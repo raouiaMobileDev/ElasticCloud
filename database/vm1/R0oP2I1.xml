@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+  <metadata>
+    <name>cpuUsage</name>
+    <unit>%</unit>
+    <vm />
+  </metadata>
+  <data>
+    <metric time="Mar 22, 2016 1:07:06 AM" VMs="1">0.0</metric>
+    <metric time="Mar 22, 2016 1:07:21 AM" VMs="1">18.8</metric>
+    <metric time="Mar 22, 2016 1:07:37 AM" VMs="1">98.5</metric>
+    <metric time="Mar 22, 2016 1:07:59 AM" VMs="2">100.0</metric>
+    <metric time="Mar 22, 2016 1:07:59 AM" VMs="3">100.0</metric>
+    <metric time="Mar 22, 2016 1:08:29 AM" VMs="3">100.0</metric>
+    <metric time="Mar 22, 2016 1:09:00 AM" VMs="3">100.0</metric>
+    <metric time="Mar 22, 2016 1:09:19 AM" VMs="3">21.3</metric>
+    <metric time="Mar 22, 2016 1:09:50 AM" VMs="3">2.0</metric>
+    <metric time="Mar 22, 2016 1:10:21 AM" VMs="2">100.0</metric>
+    <metric time="Mar 22, 2016 1:10:21 AM" VMs="3">100.0</metric>
+    <metric time="Mar 22, 2016 1:10:42 AM" VMs="3">21.6</metric>
+    <metric time="Mar 22, 2016 1:11:07 AM" VMs="3">10.0</metric>
+    <metric time="Mar 22, 2016 1:11:41 AM" VMs="2">2.0</metric>
+    <metric time="Mar 22, 2016 1:12:12 AM" VMs="2">4.0</metric>
+    <metric time="Mar 22, 2016 1:12:28 AM" VMs="1">0.0</metric>
+    <metric time="Mar 22, 2016 1:12:43 AM" VMs="1">4.1</metric>
+    <metric time="Mar 22, 2016 1:12:59 AM" VMs="1">0.0</metric>
+    <metric time="Mar 22, 2016 1:13:14 AM" VMs="1">0.0</metric>
+    <metric time="Mar 22, 2016 1:13:30 AM" VMs="1">2.0</metric>
+    <metric time="Mar 22, 2016 1:13:45 AM" VMs="1">6.1</metric>
+    <metric time="Mar 22, 2016 1:14:01 AM" VMs="1">0.0</metric>
+    <metric time="Mar 22, 2016 1:14:16 AM" VMs="1">2.0</metric>
+    <metric time="Mar 22, 2016 1:14:32 AM" VMs="1">0.0</metric>
+    <metric time="Mar 22, 2016 1:14:47 AM" VMs="1">2.0</metric>
+    <metric time="Mar 22, 2016 1:15:03 AM" VMs="1">0.0</metric>
+    <metric time="Mar 22, 2016 1:15:18 AM" VMs="1">97.4</metric>
+    <metric time="Mar 22, 2016 1:15:34 AM" VMs="2">43.5</metric>
+    <metric time="Mar 22, 2016 1:16:06 AM" VMs="2">22.0</metric>
+  </data>
+</database>
+
